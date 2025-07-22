@@ -1,4 +1,4 @@
-# ☀️ Weather App RU
+# ☀️ Weather App
 
 This application fetches weather data using the http package and processes it in JSON format. The data is retrieved from a weather API based on the user's current location or a city name provided by the user.
 
