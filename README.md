@@ -14,9 +14,7 @@ This application fetches weather data using the http package and processes it in
 
 ---
 
-## 📸 Screenshots
-
-> Add the following images to your project root or `assets/images/` folder, then use:
+## Screenshots
 
 ```md
 ![Home Screen](assets/images/ui.png)
